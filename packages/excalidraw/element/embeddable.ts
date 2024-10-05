@@ -66,6 +66,7 @@ const ALLOWED_DOMAINS = new Set([
   "val.town",
   "giphy.com",
   "reddit.com",
+  "localhost:3000",
 ]);
 
 const ALLOW_SAME_ORIGIN = new Set([
